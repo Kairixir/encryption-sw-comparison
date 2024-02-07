@@ -1,0 +1,72 @@
+Name,Android,Windows NT,iOS,Mac OS X,Linux,FreeBSD,OpenBSD,NetBSD
+Aloaha Crypt Disk,?,Yes,?,No,No,No,No,No
+BestCrypt Volume Encryption,?,Yes,?,Yes,No,No,No,No
+BitArmor DataControl,?,Yes,?,No,No,No,No,No
+BitLocker,No,Yes,?,Partial,Partial,No,No,No
+Bloombase StoreSafe,?,Yes,?,Yes,Yes,Yes,Yes,Yes
+Boxcryptor,Yes,Yes,Yes,Yes,Yes,No,No,No
+CenterTools DriveLock,?,Yes,?,No,No,No,No,No
+CGD,?,No,?,No,No,No,No,Yes
+Check Point Full Disk Encryption,?,Yes,?,Yes,Yes,No,No,No
+CipherShed,Yes,Yes,?,Yes,Yes,No,No,No
+CrossCrypt,No,Yes,?,No,No,No,No,No
+CryFS,No,Yes,?,Yes,Yes,Yes,No,Yes
+Cryhod,?,Yes,?,No,Yes,No,No,No
+Cryptainer,?,Yes,?,No,No,No,No,No
+CryptArchiver,?,Yes,?,No,No,No,No,No
+Cryptic Disk,No,Yes,No,No,No,No,No,No
+Cryptoloop,?,Yes,?,No,Yes,No,No,No
+Cryptomator,Yes,Yes,Yes,Yes,Yes,No,No,No
+CryptoPro Secure Disk Enterprise,No,Yes,?,No,No,No,No,No
+CryptoPro Secure Disk for BitLocker,No,Yes,?,No,No,No,No,No
+Cryptsetup / Dmsetup,?,Yes,?,No,Yes,No,No,No
+CryptSync,No,Yes,?,Yes,Yes,No,No,No
+Discryptor,?,No,?,No,No,No,No,No
+DiskCryptor,?,Yes,?,No,No,No,No,No
+DISK Protect,?,Yes,?,No,No,No,No,No
+Dm-crypt / LUKS,?,Yes,?,No,Yes,No,No,No
+DriveSentry GoAnywhere 2,?,Yes,?,No,No,No,No,No
+E4M,?,Yes,?,No,No,No,No,No
+e-Capsule Private Safe,?,Yes,?,No,No,No,No,No
+eCryptfs,?,No,?,No,Yes,No,No,No
+EgoSecure HDD Encryption,?,Yes,?,No,No,No,No,No
+EncFS,Yes,Yes,?,Yes,Yes (FUSE),Yes (FUSE),Yes (FUSE),Yes (FUSE)
+EncryptStick,?,Yes,?,Yes,Yes,No,No,No
+EncryptUSB,?,Yes,?,Yes,No,No,No,No
+FileVault,?,No,?,Yes,No,No,No,No
+FileVault 2,?,No,?,Yes,Partial,No,No,No
+FREE CompuSec,?,Yes,?,No,No,No,No,No
+FreeOTFE,No,Yes,?,No,Partial,No,No,No
+GBDE,?,No,?,No,No,Yes,No,No
+GELI,?,No,?,No,No,Yes,No,No
+Knox,?,No,?,Yes,No,No,No,No
+LibreCrypt,Yes,Yes,?,No,Partial,No,No,No
+Loop-AES,?,No,?,No,Yes,No,No,No
+McAfee Drive Encryption (SafeBoot),?,Yes,?,Yes,No,No,No,No
+n-Crypt Pro,?,Yes,?,No,No,No,No,No
+PGPDisk,?,Yes,?,Yes,No,No,No,No
+PGP Whole Disk Encryption,?,Yes,?,Yes,Yes,No,No,No
+Private Disk,?,Yes,?,No,No,No,No,No
+ProxyCrypt,No,Yes,?,No,No,No,No,No
+R-Crypto,?,Yes,?,No,No,No,No,No
+SafeGuard Easy,?,Yes,?,No,No,No,No,No
+SafeGuard Enterprise,?,Yes,?,Yes,No,No,No,No
+SafeGuard PrivateDisk,?,Yes,?,No,No,No,No,No
+SafeHouse Professional,?,Yes,?,No,No,No,No,No
+Scramdisk,?,Yes,?,No,Yes,No,No,No
+Scramdisk 4 Linux,?,No,?,No,Yes,No,No,No
+SecuBox,?,No,?,No,No,No,No,No
+SecureDoc,?,Yes,?,Yes,Yes,No,No,No
+Sentry 2020,?,Yes,?,No,No,No,No,No
+Seqrite Volume Encryption,No,Yes,No,No,No,No,No,No
+Softraid / RAID C,?,No,?,No,No,No,Yes,No
+SpyProof!,?,Yes,?,No,No,No,No,No
+Svnd / Vnconfig,?,No,?,No,No,No,Yes,No
+Symantec Endpoint Encryption,?,Yes,?,Yes,No,No,No,No
+Tcplay,No,No,?,No,Yes,No,No,No
+Trend Micro Endpoint Encryption,No,Yes,?,Yes,No,No,No,No
+TrueCrypt,Yes,Yes,Yes,Yes,Yes,No,No,No
+USBCrypt,No,Yes,?,No,No,No,No,No
+VeraCrypt,Yes,Yes,Yes,Yes,Yes,Yes,No,No
+CyberSafe Top Secret,Yes,Yes,?,No,No,No,No,No
+Name,Android,Windows NT,iOS,Mac OS X,Linux,FreeBSD,OpenBSD,NetBSD
